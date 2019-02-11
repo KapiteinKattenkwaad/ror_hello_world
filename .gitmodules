@@ -1,0 +1,3 @@
+[submodule "Documents/odin_project/learn_ruby"]
+	path = Documents/odin_project/learn_ruby
+	url = https://github.com/TheOdinProject/learn_ruby.git
